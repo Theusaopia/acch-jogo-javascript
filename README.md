@@ -10,6 +10,6 @@ Todo o projeto é baseado na playlist do Felipe Deschamps
 Na pasta local do projeto, abrir um terminal e rodar o comando:
 
 
-    npx serve
+    npx nodemon
 
 O comando vai iniciar a porta 3000 para rodar o projeto.
